@@ -11,16 +11,14 @@ Workspaces are individual coding environments launched from within the HuBMAP Da
 ## Why workspaces? 
 We highlight three benefits of using workspaces. 
 1. Use HuBMAP resources. With workspaces, you can access HuBMAP resources to run analyses. 
-> [!NOTE]
-> Do we want to include this?
 2. Link data to workspaces. You can link full HuBMAP datasets to these coding environments. This eliminates the need to download data to run fast analyses.
 3. Availability of templates. Templates are pre-set notebooks that run analyses or show visualizations. These can help to check the quality and analyse datasets for further investigation. They are populated with the datasets linked to a workspace. You can also create your own templates.
 
 
 ## Starting your first workspace
-It's time to start up your first workspace! The workspaces are located [here](https://portal.hubmapconsortium.org/workspaces). Learn how to launch a workspace and link datasets by watching the Tango tutorial [here](https://portal.hubmapconsortium.org/tutorials/workspaces).
+It's time to start up your first workspace! The workspaces are located [here](https://portal.hubmapconsortium.org/workspaces)
 
-Start a workspace with a template called _insert name_. 
-> **_NOTE:_**  Insert name of workspace here.
-
-The datasets that are used in the other modules of this tutorial are already available in the created workspace. You still have to upload the notebooks. Upload notebook 02_data_examination.ipynb and 03_data_retrieval.ipynb to the workspace (within the Jupyter Lab environment, click the upload arrow).
+1. Learn how to launch a workspace and link datasets by watching the Tango tutorial [here](https://portal.hubmapconsortium.org/tutorials/workspaces).
+2. Start a workspace with a template called _insert name_. 
+> **_NOTE:_**  Insert name/link of workspace here.
+3. The datasets that are used in the other modules of this tutorial are already available in the created workspace. You still have to upload the notebooks. Upload notebook 02_data_examination.ipynb, 03_data_retrieval.ipynb and 04_widgets_and_visualizations.ipynb to the workspace (within the Jupyter Lab environment, click the upload arrow).
