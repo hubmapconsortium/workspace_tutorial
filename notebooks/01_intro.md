@@ -19,6 +19,5 @@ We highlight three benefits of using workspaces.
 It's time to start up your first workspace! The workspaces are located [here](https://portal.hubmapconsortium.org/workspaces)
 
 1. Learn how to launch a workspace and link datasets by watching the Tango tutorial [here](https://portal.hubmapconsortium.org/tutorials/workspaces).
-2. Start a workspace with a template called _insert name_. 
-> **_NOTE:_**  Insert name/link of workspace here.
+2. Navigate to the 'Workspace Tutorial datasets' sample workspace [here](https://hms-dbmi.slack.com/archives/C07MPUCM55K/p1726583699234429) and click the 'Try Sample Workspace' button.
 3. The datasets that are used in the other modules of this tutorial are already available in the created workspace. You still have to upload the notebooks. Upload notebook 02_data_examination.ipynb, 03_data_retrieval.ipynb and 04_widgets_and_visualizations.ipynb to the workspace (within the Jupyter Lab environment, click the upload arrow).
