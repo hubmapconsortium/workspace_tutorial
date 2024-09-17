@@ -7,4 +7,4 @@ This tutorial has five sections. Each is a singular notebook that shows a differ
 First clone this repository. Then follow the instructions in the individual notebooks.
 
 ## Team
-This tutorial is created by the Harvard [HIDIVE Lab](hidivelab.org) in collaboration with PSC and CMU as part of the HuBMAP consortium.
+This tutorial is created by the Harvard [HIDIVE Lab](https://hidivelab.org) in collaboration with PSC and CMU as part of the HuBMAP consortium.
