@@ -2,7 +2,7 @@
 This tutorial is created for [HuBMAP Data Portal Workspaces](https://portal.hubmapconsortium.org/) [Fall 2024 Hackathon](https://hubmapconsortium.org/2024-fall-hackathon/).
 
 ## Set-up
-This tutorial has five sections. Each is a singular notebook that shows a different side of the Workspaces.
+This tutorial has five sections. Each is a singular markdown file or Jupyter notebook that shows a different side of the Workspaces.
 
 First clone this repository. Then follow the instructions in the individual notebooks.
 
